@@ -6,9 +6,9 @@ clear all; close all; clc;
 % specify test subset: [test_DET, test_scene, test_people, test_track3D, test_tracklam, test_PTB, test_all]
 dataset = 'test_DET'; 
 % set gt path 
-gtPath = ['/Users/muscle/Desktop/RGB-D VSOD/1Data/3DVSOD-DMRA/' dataset '/test_masks/'];
+gtPath = ['Your_dataset_path/' dataset '/test_masks/'];
 % set pred path
-salPath = ['/Users/muscle/Desktop/RGB-D VSOD/1Code/NeurIPS23/NIPS23-Base/vidRes2frame/test_all/'];
+salPath = ['Your_results_path/'];
 
 
 
