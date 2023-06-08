@@ -84,6 +84,6 @@ if __name__ == '__main__':
     # Output path
     output_path = './'
     # Test subset
-    prefix = 'test_tracklam'
+    prefix = 'test_all'
 
     convert_dataset_format(data_root, output_path, prefix)
