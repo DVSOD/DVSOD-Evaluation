@@ -49,10 +49,10 @@ python Pred_convert.py
 3. Obtain the evaluation scores with `run main.m`
 
 
-## Acknowledgements
+## Acknowledgement
 This evaluation toolbox is adapted from [the github repository](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox). 
 
-## References
+## Reference
 ```
 @article{borji2015salient,
 	title="Salient Object Detection: A Benchmark",
