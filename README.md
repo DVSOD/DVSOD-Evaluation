@@ -9,7 +9,7 @@ This repository is used to evaluate the model performance on the DViSal dataset.
 
 + **Preparing DViSal dataset**
 
-Download the `DViSal` dataset, which is structured as follows:
+Download the `DViSal` [dataset](https://github.com/DVSOD/DVSOD-DViSal), which is structured as follows:
 
 ```
 DViSal_dataset/
