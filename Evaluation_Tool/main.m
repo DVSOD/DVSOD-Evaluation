@@ -40,7 +40,7 @@ for i = 1:imgNUM
     end
     
     
-    %load salency
+    %load saliency
     sal  = imread([salPath name]);
     
     %check size
