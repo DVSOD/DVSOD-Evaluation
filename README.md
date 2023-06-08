@@ -35,12 +35,18 @@ python GT_convert.py
 
 + **Preparing saliency results**
 
-x x x x
+Similar to the process above, get the reorganized results via `Pred_convert.py`.
+1. Set `results path` and `Output path` in `Pred_convert.py`
+2. Obtain the restructured results for evaluation, with
+```
+python Pred_convert.py
+```
 
 + **Performing evaluation tool**
 
-x x x x
-
+1. Enter `Evaluation_Tool` file
+2. Set the path of `gtPath` and `salPath` in `main.m`
+3. Obtain the evaluation scores with `run main.m`
 
 
 ## Acknowledgements
