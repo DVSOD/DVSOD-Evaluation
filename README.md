@@ -1,5 +1,5 @@
 # DVSOD-Evaluation
-This repository is used to evaluate the model performance on the DViSal dataset.
+This repository is used to evaluate the model performance for the DViSal dataset.
 
 ## Requirement 
 * MATLAB 
