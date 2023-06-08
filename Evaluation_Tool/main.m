@@ -4,7 +4,7 @@ clear all; close all; clc;
 % Finally, you will get evaluation scores.
 
 % specify test subset: [test_DET, test_scene, test_people, test_track3D, test_tracklam, test_PTB, test_all]
-dataset = 'test_DET'; 
+dataset = 'test_all'; 
 % set gt path 
 gtPath = ['Your_dataset_path/' dataset '/test_masks/'];
 % set pred path
