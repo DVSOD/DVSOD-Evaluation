@@ -13,6 +13,7 @@ Download the `DViSal` [dataset](https://github.com/DVSOD/DVSOD-DViSal), which is
 
 ```
 DViSal_dataset/
+│ ···
 ├─ data/
 │  ├─ video1/
 │  │  ├─ RGB/
