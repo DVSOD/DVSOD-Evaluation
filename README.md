@@ -53,7 +53,7 @@ python Pred_convert.py
 ## Acknowledgement
 This evaluation toolbox is adapted from [the github repository](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox). 
 
-## Reference
+## References
 ```
 @article{borji2015salient,
 	title="Salient Object Detection: A Benchmark",
