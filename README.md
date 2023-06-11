@@ -84,7 +84,7 @@ This evaluation toolbox is adapted from [the github repository](https://github.c
 }
 ```
 ```
-@misc{author_year,
+@misc{ji2021evaluation,
   title="Evaluation Toolbox for Salient Object Detection",
   author="Wei Ji",
   howpublished="Saliency Evaluation Toolbox",
