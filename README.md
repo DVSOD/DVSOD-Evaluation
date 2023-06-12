@@ -21,6 +21,8 @@ DViSal_dataset/
 │  │  │  ├─ 00000002.jpg
 │  │  ├─ Depth/
 │  │  │  ├─ 00000001.png
+│  │  ├─ GT/
+│  │  │  ├─ 00000001.png
 │  │
 │  ├─ video2/
 │  │  ├─ RGB/
